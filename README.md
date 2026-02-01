@@ -140,7 +140,7 @@ Busco oportunidades para crecer profesionalmente en entornos donde pueda aportar
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-## 🐍 Contribution Snake
+## 🎮 Contribution Game
 
 <div align="center">
   <picture>
