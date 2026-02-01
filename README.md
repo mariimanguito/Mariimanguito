@@ -1,10 +1,12 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hey!+%F0%9F%91%8B+Soy+Maricarmen;Desarrolladora+Web+Junior+%F0%9F%92%BB;Women+in+Tech+%F0%9F%92%9C" alt="Typing SVG" />
-</h1>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header" />
 </div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hey!+%F0%9F%91%8B+I'm+Maricarmen;Junior+Web+Developer+%F0%9F%92%BB;Women+in+Tech+%F0%9F%92%9C" alt="Typing SVG" />
+</h1>
+
+
 
 ###
 
@@ -17,55 +19,6 @@
   </a>
 </div>
 
-###
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</div>
-
-## 💜 Sobre Mí
-
-<img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-```javascript
-const maricarmen = {
-    ubicacion: "Pachuca, México 🇲🇽",
-    rol: "Desarrolladora Web Junior & Soporte TI",
-    educacion: "Ciencias Computacionales @ UAEH",
-    enfoque: ["Desarrollo Web", "Soporte Técnico", "ML"],
-    pasion: "Crear soluciones funcionales",
-    motto: "Código limpio, usuarios felices 💜"
-};
-```
-
-**🌸 ¿Quién soy?**
-
-Desarrolladora web **junior** full-stack con experiencia práctica en desarrollo y soporte técnico. Combino habilidades de **programación** (React, Node.js, Python) con **resolución de problemas de TI** para crear soluciones completas y funcionales.
-
-**Mi enfoque profesional:**
-- 💻 Desarrollo web con tecnologías modernas (React, Next.js, TypeScript)
-- 🛠️ Soporte técnico: configuración de sistemas, resolución de incidencias y gestión de redes
-- 📊 Automatización de procesos con Power Automate y scripting
-- 🤖 Interés en Machine Learning y análisis de datos
-
-**Soft skills que me definen:**
-- Orientación al usuario y atención al detalle
-- Comunicación clara para traducir necesidades técnicas
-- Trabajo en equipo y documentación efectiva
-- Proactividad para aprender nuevas tecnologías
-
-Busco oportunidades para crecer profesionalmente en entornos donde pueda aportar mis habilidades técnicas y mi pasión por resolver problemas.
-
-<br clear="right"/>
-
-###
-
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-
-## 🎵 Escúchame en Spotify
-
 <div align="center">
   <a href="https://open.spotify.com/user/mary_cipriano">
     <img src="https://img.shields.io/badge/Spotify-Sígueme-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=1DB954" height="40" alt="Spotify" />
@@ -75,14 +28,62 @@ Busco oportunidades para crecer profesionalmente en entornos donde pueda aportar
 ###
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
+
+## 💜 About Me
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img alt="coding" width="280" src="https://media.giphy.com/media/awGA2x8j6BlgSAOG5e/giphy.gif" />
+      </td>
+      <td>
+        <pre>
+<code class="language-javascript">
+const maricarmen = {
+  location: "Pachuca, Mexico 🇲🇽",
+  role: "Junior Developer",
+  education: "Computer Science @ UAEH",
+  focus: ["Web development", "IT support", "Process automation", "ML (learning)"],
+  passions: ["cinema", "music", "tech", "travel"],
+  motto: "Philomath"
+};
+</code>
+        </pre>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
+
+
+**🌸 Who am I?**
+
+**22 years old | Junior Web Dev + IT Support.** Experience handling incidents, configuring devices/networks and building functional web solutions. Organized, patient, user-focused and with strong documentation habits.
+
+**My professional focus:**
+- 💻 Web development with modern technologies (React, Next.js, TypeScript)
+- 🛠️ Technical support: system configuration, troubleshooting and network management
+- 📊 Process automation (Power Automate + scripting)
+- 🤖 Interest in Machine Learning and data analysis
+
+<br clear="right"/>
+
+###
+
+<div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-## 💻 Habilidades Técnicas
+## 💻 Skills
 
 <div align="center">
 
-### Lenguajes
+### Languages
 <img src="https://skillicons.dev/icons?i=py,js,ts,java,php,cs,cpp,bash&theme=light" />
 
 ### Frontend
@@ -94,7 +95,7 @@ Busco oportunidades para crecer profesionalmente en entornos donde pueda aportar
 ### Tools & DevOps
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux&theme=light" />
 
-### Otras Tecnologías
+### Other Technologies
 ![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
 ![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=power-automate&logoColor=white)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
@@ -116,13 +117,6 @@ Busco oportunidades para crecer profesionalmente en entornos donde pueda aportar
 </div>
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariimanguito&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_color=FF69B4&title_color=FF69B4&icon_color=DA70D6&text_color=FFF&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariimanguito&layout=compact&langs_count=8&theme=radical&border_color=FF69B4&title_color=FF69B4&text_color=FFF&bg_color=0D1117"/>
-</div>
-
-###
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariimanguito&theme=radical&hide_border=false&border=FF69B4&stroke=FF69B4&ring=FF69B4&fire=DA70D6&currStreakLabel=FF69B4&sideLabels=FF69B4&background=0D1117" alt="GitHub Streak"/>
@@ -158,11 +152,11 @@ Busco oportunidades para crecer profesionalmente en entornos donde pueda aportar
 
 <div align="center">
   
-### 💜 Gracias por visitar mi perfil
+### 💜 Thanks for visiting my profile
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 
-**Hecho con 💜💖 desde Pachuca, México**
+**ACTION BOARD**
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmariimanguito&label=Visitors&labelColor=%23FF69B4&countColor=%230d1117&style=flat-square)
 
