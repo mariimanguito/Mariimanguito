@@ -116,41 +116,6 @@ const maricarmen = {
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mariimanguito&theme=radical&hide_border=false&border=FF69B4&stroke=FF69B4&ring=FF69B4&fire=DA70D6&currStreakLabel=FF69B4&sideLabels=FF69B4&background=0D1117" alt="GitHub Streak"/>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mariimanguito&bg_color=0d1117&color=ff69b4&line=da70d6&point=ff69b4&area=true&hide_border=false&border_color=ff69b4" width="100%"/>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-
-## 🎮 Contribution Game
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mariimanguito/mariimanguito/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mariimanguito/mariimanguito/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mariimanguito/mariimanguito/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</div>
-
-<div align="center">
   
 ### 💜 Thanks for visiting my profile
 
