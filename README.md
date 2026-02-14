@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header" />
 </div>
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hey!+%F0%9F%91%8B+I'm+Maricarmen;Junior+Web+Developer+%F0%9F%92%BB;Women+in+Tech+%F0%9F%92%9C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hey!+%F0%9F%91%8B+I'm+Maricarmen;Junior+Developer+%F0%9F%92%BB;Women+in+Tech+%F0%9F%92%9C" alt="Typing SVG" />
 </h1>
 
 
@@ -117,15 +117,13 @@ const maricarmen = {
 </div>
 
   
-### 💜 Thanks for visiting my profile
-
+### 
+<div align="center">
+  💜 Thanks for visiting my profile
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-
-**ACTION BOARD**
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmariimanguito&label=Visitors&labelColor=%23FF69B4&countColor=%230d1117&style=flat-square)
-
 </div>
+
+
 
 ###
 
